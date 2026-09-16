@@ -11,4 +11,12 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+## Array
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
