@@ -22,6 +22,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
@@ -31,4 +32,8 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
