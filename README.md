@@ -55,6 +55,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2544-alternating-digit-sum](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
