@@ -39,10 +39,12 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3498-reverse-degree-of-a-string](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
