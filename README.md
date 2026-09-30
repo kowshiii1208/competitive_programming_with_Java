@@ -14,6 +14,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -44,6 +45,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
