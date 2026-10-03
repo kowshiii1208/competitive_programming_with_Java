@@ -14,6 +14,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -87,4 +88,12 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
