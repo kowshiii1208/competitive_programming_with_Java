@@ -10,10 +10,12 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0078-subsets) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -91,6 +93,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
