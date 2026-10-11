@@ -21,6 +21,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3151-special-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
