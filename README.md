@@ -15,6 +15,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +54,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
