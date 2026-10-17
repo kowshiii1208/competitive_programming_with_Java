@@ -50,6 +50,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [0022-generate-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1021-remove-outermost-parentheses) |
+| [1446-consecutive-characters](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3498-reverse-degree-of-a-string](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3498-reverse-degree-of-a-string) |
