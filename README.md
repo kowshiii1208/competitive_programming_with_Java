@@ -20,6 +20,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
