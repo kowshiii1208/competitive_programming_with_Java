@@ -12,6 +12,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | ------- |
 | [0078-subsets](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0078-subsets) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -30,12 +31,14 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [3151-special-array-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3151-special-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
