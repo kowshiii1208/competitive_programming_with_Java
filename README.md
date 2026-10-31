@@ -29,6 +29,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3151-special-array-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3151-special-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
