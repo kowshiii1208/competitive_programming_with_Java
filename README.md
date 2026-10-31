@@ -28,6 +28,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3151-special-array-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3151-special-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -68,6 +69,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [0219-contains-duplicate-ii](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -129,4 +131,12 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/0867-transpose-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
