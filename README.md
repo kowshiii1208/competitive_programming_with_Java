@@ -34,6 +34,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [3483-unique-3-digit-even-numbers](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
@@ -87,6 +88,7 @@ AND GENERAL PROBLEMS THAT I HAVE SOLVED IN CODEFORCES , LEETCODE AND GFG
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kowshiii1208/competitive_programming_with_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
